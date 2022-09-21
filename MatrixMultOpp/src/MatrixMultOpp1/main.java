@@ -5,11 +5,8 @@ public class main {
 		
 		//defines the first matrix
 		int[][] matrixA = {
-<<<<<<< HEAD
 				{6, 3, 2, 3, 8, 3, 2},
-=======
 				{1, 3, 2, 3, 8, 3, 2},
->>>>>>> 8e94ee0 (Add files via upload)
 				{4, 2, 9, 2, 9, 1, 3},
 				{8, 1, 3, 6, 4, 3, 0},
 				{4, 2, 8, 3, 3, 7, 4},
