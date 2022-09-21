@@ -23,7 +23,9 @@ public class main {
 				{4, 2, 1, 8, 2},
 				{0, 3, 2, 1, 0},
 				{8, 4, 0, 0, 1},
-				{3, 2, 5, 3, 9}		};
+				{3, 2, 5, 3, 9},
+				{8, 2, 9, 3, 7}
+		};
 		
 		//sets up the product array
 		int[][] productMatrix;
