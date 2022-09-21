@@ -5,7 +5,7 @@ public class main {
 		
 		//defines the first matrix
 		int[][] matrixA = {
-				{8, 3, 2, 3, 8, 3, 2},
+				{2, 3, 2, 3, 8, 3, 2},
 				{1, 3, 2, 3, 8, 3, 2},
 				{4, 2, 9, 2, 9, 1, 3},
 				{8, 1, 3, 6, 4, 3, 0},
